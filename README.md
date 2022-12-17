@@ -1,4 +1,5 @@
 # Weather_-Hindi-
+API based projet: No dataset needed
 Your Mausum Application is an application to view the weather information in Hindi. It shows the temperature, weather condition, humidity and wind speed in a list format. It is escpecially made for people who are not well versed in English and cannot understand tough English words like temperature, weather etc. It also has a easy to use front end so that it can be used by the masses for daily use.
 
 # Methodology
